@@ -1,0 +1,97 @@
+body{
+    font-family: "Gill Sans", sans-serif;
+}
+
+.banner-container{
+    background-color: #faebd7;
+}
+.banner-column{
+    background-color: rgb(82, 74, 13);
+}
+
+
+.navbar-container{
+    background-color: #524A0D;
+    padding-top: 10px;
+    padding-bottom: 2px;
+    margin-top: -10px;
+}
+.nav-position{
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.about-container{
+    background-color: #524A0D;
+}
+
+.img-padding{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.Education-container{
+    background-color: #524A0D;
+}
+.edu-text-color{
+    color: #faebd7;
+}
+
+.circle{
+    background-color: #faebd7;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.dark-color{
+    color: #524A0D;
+}
+.light-color{
+    color: #faebd7;
+}
+.dark-bg{
+    background-color: #524A0D;
+}
+.light-bg{
+    background-color: #faebd7;
+}
+
+.project-container{
+    background-color: #faebd7;
+}
+
+.img{
+    width: 250px;
+    height: 200px;
+}
+
+.Portfolio-bg{
+    background-color: #524A0D;
+}
+
+.contact-form{
+    background-color: aliceblue;
+}
+
+.footer{
+    background-color: slategray;
+}
+
+.footer-circle{
+    background-color: #faebd7;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    font-size: 40px;
+    display: inline-block;
+}
+
+.btn:hover{
+    background-color: #524A0D;
+    color: aliceblue;
+}
+.h1{
+    color: red;
+}
